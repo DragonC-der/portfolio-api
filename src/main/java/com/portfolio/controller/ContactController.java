@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/contact")
-@CrossOrigin(origins = "https://dragoncoder.netlify.app")
+// @CrossOrigin(origins = "https://dragoncoder.netlify.app")
 public class ContactController {
 
     @Autowired
