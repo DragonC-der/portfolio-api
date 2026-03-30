@@ -153,13 +153,6 @@ Message saved successfully!
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your portfolio here after deployment!
-> `![Hero Section](screenshots/hero.png)`
-
----
-
 ## 🙋‍♂️ Author
 
 **Subhadra Debnath**
